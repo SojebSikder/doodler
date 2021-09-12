@@ -1,2 +1,2 @@
 # doodler
-TCP desk sharing application with messaging system
+TCP desktop sharing application with messaging system
