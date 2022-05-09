@@ -24,3 +24,10 @@ E:\my program\c#\a\desktop doodler\client\client\obj\Debug\client.Form1.resource
 E:\my program\c#\a\desktop doodler\client\client\obj\Debug\client.Properties.Resources.resources
 E:\my program\c#\a\desktop doodler\client\client\obj\Debug\client.csproj.GenerateResource.Cache
 E:\my program\c#\a\desktop doodler\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\My Program\project\c#\desktop doodler\client\client\bin\Debug\client.exe.config
+D:\My Program\project\c#\desktop doodler\client\client\obj\Debug\client.exe
+D:\My Program\project\c#\desktop doodler\client\client\obj\Debug\client.pdb
+D:\My Program\project\c#\desktop doodler\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\My Program\project\c#\desktop doodler\client\client\obj\Debug\client.Form1.resources
+D:\My Program\project\c#\desktop doodler\client\client\obj\Debug\client.Properties.Resources.resources
+D:\My Program\project\c#\desktop doodler\client\client\obj\Debug\client.csproj.GenerateResource.Cache

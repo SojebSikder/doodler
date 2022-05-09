@@ -197,7 +197,7 @@ namespace client
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This software created by sojeb sikder. (c)SojebSoft");
+            MessageBox.Show("This application created by sojeb sikder.");
         }
 
         private void panel1_MouseDown(object sender, MouseEventArgs e)
